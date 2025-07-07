@@ -22,7 +22,7 @@ Neste repositório, compartilho abertamente os códigos fontes de um sistema des
 ⚠**ATENÇÃO:** para que funcione deve ser configurado adequadamente.
 
 ### ⚙️ Principais Tecnologias e Integrações
-Trata-se de um sistema voltado para efetuar cópias de segurançã para locais especificados e nos horários estipulados.
+Trata-se de um sistema voltado para efetuar cópias de segurançã para locais e horários especificos.
 
 ---
 
